@@ -47,8 +47,8 @@ will be created with full name and email address displayed on it.
 #### 3.2.3 Exchange Messages
 Basically, message exchange in realtime is constantly pushing information into database and fetching from it. For example,
 if current user sends some message, a new message entry is created in database and then is read by Firebase 
-asynchronous listeners. In UI, messages of current user are displayed green and attached to right side of the window, while
-messages of a peer are displayed from left side and in blue color respectively.
+asynchronous listeners. In UI, messages of current user are displayed green and attached to the right side of the window, while
+messages of a peer are displayed from the left and are in blue color respectively.
 
 ![Chat](https://github.com/mikyegresl/Android_Messenger/blob/master/screens/chat.png)
 
