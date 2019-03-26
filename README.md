@@ -1,7 +1,7 @@
 # Android Messenger
 
 ## 1. Objective
-Our term project application mainly focuses on educational purpose.In order to learn Android programming using Java 
+Our term project application mainly focuses on educational purpose. In order to learn Android programming using Java 
 language we implemented open-source chatting program for Android operating system.
 
 ## 2. Description
